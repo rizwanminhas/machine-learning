@@ -1,5 +1,15 @@
 # Machine Learning
 
+- [Machine Learning](#machine-learning)
+    - [Reading and Transforming data](#reading-and-transforming-data)
+      - [How to read a csv file in to a dataframe?](#how-to-read-a-csv-file-in-to-a-dataframe)
+      - [How to print df content, data types and find missing values?](#how-to-print-df-content-data-types-and-find-missing-values)
+      - [How to drop df columns and fill default values for missing fields](#how-to-drop-df-columns-and-fill-default-values-for-missing-fields)
+      - [How to split data for training and testing?](#how-to-split-data-for-training-and-testing)
+      - [How to find outliers in data](#how-to-find-outliers-in-data)
+      - [How to deal with the outliers?](#how-to-deal-with-the-outliers)
+
+
 ### Reading and Transforming data
 
 #### How to read a csv file in to a dataframe?
